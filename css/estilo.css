@@ -22,6 +22,33 @@ body {
     padding: 10px;
 }
 
+
+#principal {
+    width: 920px;
+    margin: 0 auto;
+}
+
+#posts, #lateral {
+    background: orange;
+}
+
+#posts {
+    width: 660px;
+    float: left;
+}
+
+#lateral {
+    width: 240px;
+    float: right;
+}
+
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #CCC;
+}
+
 a:link,
 a:visited {
     color: white;
