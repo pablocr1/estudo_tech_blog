@@ -28,7 +28,8 @@ body {
     margin: 0 auto;
 }
 
-#posts, #lateral {
+#posts,
+#lateral {
     background: orange;
 }
 
@@ -71,4 +72,10 @@ h1 {
 
 .branco {
     color: white;
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
 }
